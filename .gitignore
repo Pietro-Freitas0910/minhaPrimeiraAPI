@@ -1,0 +1,4 @@
+# Criar arquivo .gitignore
+node_modules/
+.env
+*.log
